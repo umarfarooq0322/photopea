@@ -1,0 +1,14 @@
+Dear Colleagues, 
+I would like to inform you that there will be a scheduled network maintenance today from 01:15 PM to 2:00 PM. This is to notify you that the network will be down during this maintenance and will remain unavailable for approximately 45 Minutes.
+We apologize for any inconvenience this may cause and appreciate your understanding. Please make any necessary arrangements and plan your activities accordingly, keeping in mind that the network will be unavailable for the mentioned duration. 
+
+If you have any urgent concerns or require further assistance, please feel free to reach out to me, I will be available to assist you. Thank you for your cooperation.
+
+Regards,
+Muhammad Umar Farooq 
+IT Support Engineer
+
+mujhay jo lag rha hai k ye koi after effect ki setting sy saheh hu ga limits ko change kr k..  agar us setting sy na hua tu graphic card acha lganay sy Shaid masla hal hu jy...
+
+
+chkdsk (drive name)E: /F press enter
